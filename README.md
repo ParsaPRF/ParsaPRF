@@ -15,14 +15,21 @@ I also do video editing — cutting, grading, and making things look good.
 If you want to learn how I do it, my projects and experiments are available here!
 
 Fun Facts:
-+🎮 I’m a gamer — mainly online games like CS2 and Dota 2
-+🕹️ I’ve had my Steam account since 2018
-+🎬 I watch movies, series, and anime
-+☕ I’m a coffee addict
-+🦸 My favorite Marvel series is Daredevil
-+📓 My favorite anime is Death Note
-+🎨 Sometimes I edit videos in After Effects and Premiere, or design in Photoshop
-+📚 Hobbies: reading books, hitting the gym, gaming, and learning random things
+•🎮 I’m a gamer — mainly online games like CS2 and Dota 2
+
+•🕹️ I’ve had my Steam account since 2018
+
+•🎬 I watch movies, series, and anime
+
+•☕ I’m a coffee addict
+
+•🦸 My favorite Marvel series is Daredevil
+
+•📓 My favorite anime is Death Note
+
+•🎨 Sometimes I edit videos in After Effects and Premiere, or design in Photoshop
+
+•📚 Hobbies: reading books, hitting the gym, gaming, and learning random things
 
 
 
