@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I’m Amir Parsa, a Computer Science student at Azad University of Iran.
+I’m Amir Parsa, a Computer Science student!
 
 I design and build web experiences, explore algorithms, and dive into AI.
 
