@@ -15,6 +15,7 @@ I also do video editing — cutting, grading, and making things look good.
 If you want to learn how I do it, my projects and experiments are available here!
 
 Fun Facts:
+
 •🎮 I’m a gamer — mainly online games like CS2 and Dota 2
 
 •🕹️ I’ve had my Steam account since 2018
