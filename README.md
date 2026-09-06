@@ -57,8 +57,13 @@ I'm a Computer Science student passionate about building real-world applications
 
 ## 📊 GitHub Stats
 
-[![ParsaPRF's GitHub stats](https://github-readme-stats.vercel.app/api?username=ParsaPRF&show_icons=true&theme=tokyonight)](https://github.com/ParsaPRF)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ParsaPRF&layout=compact&theme=tokyonight)](https://github.com/ParsaPRF)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ParsaPRF&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ParsaPRF&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
 
 ---
 
