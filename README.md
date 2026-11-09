@@ -53,7 +53,6 @@ I'm a Computer Science student passionate about building real-world applications
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
 | **[Project Manager](https://github.com/ParsaPRF/project_manager)** | Professional project management system with dashboard, tasks, charts & dark mode | Django, Tailwind CSS, Chart.js, SQLite |
-| **[Vira Online Shop](https://github.com/ParsaPRF/Vira-online-shop)** | Modern e-commerce web app: products, shopping cart, authentication, responsive design | Django, HTML/CSS, JavaScript |
 | **[Travelo](https://github.com/ParsaPRF/travelo)** | Travel blog website with authentication, blog posts, comments and email verification | Django, SQLite |
 | **[My CV](https://github.com/ParsaPRF/my_cv)** | Self-developed responsive resume website | JavaScript, HTML/CSS |
 
