@@ -30,9 +30,13 @@ I'm a Computer Science student passionate about building real-world applications
 
 [![Figma](https://skillicons.dev/icons?i=figma,photoshop,aftereffects,premiere&theme=dark)](https://skillicons.dev)
 
+### 🎮 Game Engine
+
+[![Godot](https://skillicons.dev/icons?i=godot,gdscript&theme=dark)](https://skillicons.dev)
+
 ### ⚙️ Development & Tools
 
-[![Git](https://skillicons.dev/icons?i=git,github,vscode,linux,terminal&theme=dark)](https://skillicons.dev)
+[![Git](https://skillicons.dev/icons?i=git,github,vscode,ubuntu,powershell,bash,terminal&theme=dark)](https://skillicons.dev)
 
 ---
 
