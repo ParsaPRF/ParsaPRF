@@ -61,7 +61,7 @@
 
 **Editors, System & Creative**
 <p>
-  <img height="48" alt="Obsidian, VS Code, Git, GitHub, Linux, Ubuntu, Bash, PowerShell" src="https://skillicons.dev/icons?i=obsidian,vscode,git,github,linux,ubuntu,bash,powershell&theme=dark&perline=8" />
+  <img height="48" alt="Obsidian, VS Code, Git, GitHub, Linux, Ubuntu, Arch Linux, Bash, PowerShell" src="https://skillicons.dev/icons?i=obsidian,vscode,git,github,linux,ubuntu,arch,bash,powershell&theme=dark&perline=9" />
   <br />
   <img height="48" alt="Figma, Photoshop, After Effects, Premiere" src="https://skillicons.dev/icons?i=figma,photoshop,aftereffects,premiere&theme=dark&perline=8" />
 </p>
